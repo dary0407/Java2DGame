@@ -116,4 +116,3 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 ## 🌟 Mesaj final
 *"Curajul adevărat nu vine din putere, ci din alegerea de a proteja ceea ce iubești."*
 
-*"Curajul adevărat nu vine din putere, ci din alegerea de a proteja ceea ce iubești."*
