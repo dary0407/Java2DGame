@@ -1,10 +1,10 @@
-# 🌌 Legenda Cristalului
+#  Legenda Cristalului
 
 **Autori:** Pavăl Daria-Andreea  & Barbaliu Roxana-Ionela
 
 ---
 
-## 🎮 Despre joc
+##  Despre joc
 
 **Legenda Cristalului** este un joc 2D side-view de **acțiune-aventură cu elemente RPG**.  
 Jucătorul controlează **Sage**, o tânără curajoasă care explorează peșteri, păduri și munți pentru a găsi **Cristalul Vieții**, înfruntând monștri și rezolvând provocări pentru a aduce pace lumii.  
@@ -15,7 +15,7 @@ Jucătorul controlează **Sage**, o tânără curajoasă care explorează pește
 
 ---
 
-## 🪄 Povestea
+##  Povestea
 
 Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de creaturi misterioase, ea colecționează cristale rare.  
 
@@ -23,7 +23,7 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 
 ---
 
-## 🕹️ Gameplay
+##  Gameplay
 
 ### Controale
 | Acțiune | Tastă |
@@ -50,7 +50,7 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 
 ---
 
-## 🗺️ Niveluri
+##  Niveluri
 
 ### Nivel 1
 - Explorarea peșterii, colectare cristale  
@@ -69,7 +69,7 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 
 ---
 
-## 👤 Personaje
+##  Personaje
 
 - **Sage:** eroina curajoasă, protector al oamenilor  
 - **Lewis:** samurai malefic, motivat de putere  
@@ -77,7 +77,7 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 
 ---
 
-## 📊 Scoring
+##  Scoring
 
 - Colectează stele și cristale pentru scor  
 - Succes la niveluri + boss = obținerea Cristalului Vieții  
@@ -85,7 +85,7 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 
 ---
 
-## 🧩 Clase și arhitectură
+##  Clase și arhitectură
 
 - **Main**
   - `AssetSetter` – plasează obiecte și NPC-uri  
@@ -101,7 +101,7 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
   - `Entity` – șablon entități Player/NPC  
 
 
-## 📚 Resurse / Bibliografie
+##  Resurse / Bibliografie
 
 - Personaje: [Gothicvania Collection](https://ansimuz.itch.io/gothicvania-patreon-collection)  
 - Mapa Nivel 1: [Vecteezy Map Icon](https://www.vecteezy.com/png/54236651-3d-rendering-map-icon-game-asset-icon-concept)  
@@ -115,4 +115,5 @@ Sage este fiica unui negustor, pasionată de aventură. Într-o lume plină de c
 
 ## 🌟 Mesaj final
 *"Curajul adevărat nu vine din putere, ci din alegerea de a proteja ceea ce iubești."*
+
 
